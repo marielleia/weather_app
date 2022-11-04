@@ -10,4 +10,4 @@ The app will show the location of the city, the current date, the temperature in
 
 # Demo
 
-https://marielleia.github.io/weather-app
+https://marielleia.github.io/weather_app
