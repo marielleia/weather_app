@@ -12,4 +12,4 @@ The app will show the location of the city, the current date, the temperature in
 
 https://marielleia.github.io/weather_app
 
-![Alt text](/public/wapp-screen.JPG?raw=true "Weather App")
+<img src="/public/wapp-screen.JPG" height= 400px/>
